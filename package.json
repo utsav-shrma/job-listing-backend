@@ -1,0 +1,15 @@
+{
+  "name": "job-listing-backend",
+  "version": "1.0.0",
+  "description": "A fullstack Job List platform based on MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2"
+  }
+}
